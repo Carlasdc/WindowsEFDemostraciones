@@ -1,4 +1,4 @@
-namespace WindowsAppPubs
+namespace WindowsAppPubs.Models
 {
     using System;
     using System.Collections.Generic;
